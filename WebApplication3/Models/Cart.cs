@@ -7,10 +7,8 @@ namespace WebApplication3.Models
     {
         [Key]
         public int CartId { get; set; }
-        public int UserId { get; set; } // Nullable for anonymous carts
-
-        [ForeignKey("UserId")]
-        public virtual Customer Customer { get; set; }
-        public virtual ICollection<CartItem> CartItem { get; set; }
+        [Required]
+        public string UserId { get; set; } // Nullable for anonymous carts
+        public virtual ICollection<CartItem> CartItems { get; set; }
     }
 }

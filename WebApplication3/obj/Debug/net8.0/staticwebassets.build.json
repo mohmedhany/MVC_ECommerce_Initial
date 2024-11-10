@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r/7oyj7vxnSEKOtKQd8yHhe93Zv/oS1nRnqXcl9uYEQ=",
+  "Hash": "oUejtbZ3Kp+K/GsyfnLDN+PS5rxK787v1LHTMgYvI2A=",
   "Source": "WebApplication3",
   "BasePath": "_content/WebApplication3",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApplication3\\wwwroot",
       "Source": "WebApplication3",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\mo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.8\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication3.styles.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication3.styles.css",
       "SourceId": "WebApplication3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "WebApplication3.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication3.styles.css"
+      "OriginalItemSpec": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication3.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css",
       "SourceId": "WebApplication3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "WebApplication3.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\css\\site.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\style.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\css\\style.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\style-prefix.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\css\\style-prefix.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "css/style-prefix.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style-prefix.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\favicon.ico",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\banner-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\banner-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/banner-1.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\banner-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\banner-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/banner-2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\banner-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\banner-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/banner-3.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\blog-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\blog-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/blog-1.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\blog-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\blog-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/blog-2.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\blog-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\blog-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/blog-3.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\blog-4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\blog-4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/blog-4.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\cta-banner.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\cta-banner.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/cta-banner.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cta-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\electronics-banner-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\electronics-banner-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/electronics-banner-1.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\electronics-banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\electronics-banner-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\electronics-banner-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/electronics-banner-2.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\electronics-banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\bag.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\bag.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/bag.svg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\bag.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\coat.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\coat.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/coat.svg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\coat.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\cosmetics.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\cosmetics.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/cosmetics.svg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\cosmetics.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\dress.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\dress.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/dress.svg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\dress.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\glasses.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\glasses.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/glasses.svg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\glasses.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\hat.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\hat.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/hat.svg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\hat.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\jacket.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\jacket.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/jacket.svg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\jacket.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\jewelry.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\jewelry.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/jewelry.svg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\jewelry.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\perfume.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\perfume.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/perfume.svg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\perfume.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\quotes.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\quotes.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/quotes.svg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\quotes.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\shoes.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\shoes.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/shoes.svg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\shoes.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\shorts.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\shorts.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/shorts.svg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\shorts.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\tee.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\tee.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/tee.svg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\tee.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\icons\\watch.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\icons\\watch.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/icons/watch.svg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\watch.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\logo\\favicon.ico",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\logo\\favicon.ico",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/logo/favicon.ico",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\logo\\logo.svg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\logo\\logo.svg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/logo/logo.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\mens-banner.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\mens-banner.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/mens-banner.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mens-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\newsletter.png",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\newsletter.png",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/newsletter.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\newsletter.png"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\payment.png",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\payment.png",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/payment.png",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/1.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/2.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/3.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/4.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\belt.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\belt.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/belt.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\belt.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\clothes-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\clothes-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/clothes-1.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\clothes-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\clothes-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/clothes-2.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\clothes-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\clothes-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/clothes-3.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\clothes-4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\clothes-4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/clothes-4.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jacket-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jacket-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jacket-1.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jacket-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jacket-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jacket-2.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jacket-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jacket-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jacket-3.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jacket-4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jacket-4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jacket-4.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jacket-5.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jacket-5.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jacket-5.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jacket-6.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jacket-6.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jacket-6.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jewellery-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jewellery-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jewellery-1.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jewellery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jewellery-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jewellery-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jewellery-2.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jewellery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\jewellery-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\jewellery-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/jewellery-3.jpg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jewellery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\party-wear-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\party-wear-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/party-wear-1.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\party-wear-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\party-wear-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\party-wear-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/party-wear-2.jpg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\party-wear-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\perfume.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\perfume.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/perfume.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\perfume.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shampoo.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shampoo.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shampoo.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shampoo.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shirt-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shirt-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shirt-1.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shirt-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shirt-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shirt-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shirt-2.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shirt-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-1.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-1_1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-1_1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-1_1.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-1_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-2.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-2_1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-2_1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-2_1.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-2_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-3.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-4.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shoe-5.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shoe-5.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shoe-5.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shorts-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shorts-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shorts-1.jpg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shorts-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\shorts-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\shorts-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/shorts-2.jpg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shorts-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\sports-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\sports-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/sports-1.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\sports-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\sports-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/sports-2.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\sports-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\sports-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/sports-3.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\sports-4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\sports-4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/sports-4.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\sports-5.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\sports-5.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/sports-5.jpg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\sports-6.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\sports-6.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/sports-6.jpg",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\watch-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\watch-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/watch-1.jpg",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\watch-2.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\watch-2.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/watch-2.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\watch-3.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\watch-3.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/watch-3.jpg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\products\\watch-4.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\products\\watch-4.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/products/watch-4.jpg",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\testimonial-1.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\testimonial-1.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/testimonial-1.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\images\\WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\images\\womens-banner.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\images\\womens-banner.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "images/womens-banner.jpg",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\images\\womens-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\script.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\js\\script.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\site.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg",
+      "Identity": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "WhatsApp Image 2024-07-30 at 21.49.42_ef8f07ab.jpg",
       "AssetKind": "All",

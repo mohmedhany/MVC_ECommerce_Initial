@@ -1,0 +1,44 @@
+﻿@model WebApplication3.ModelView.OrderViewModel
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<h1>Order Confirmation</h1>
+<p>Order ID: @Model.Order.OrderId</p>
+<p>Order Date: @Model.Order.OrderDate.ToString("yyyy-MM-dd HH:mm:ss")</p>
+<p>Order Status : @Model.Order.OrderStatus.ToString()</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+        @foreach (var item in Model.OrderItems)
+        {
+            <tr>
+                @* <td>@item.ProductId</td> *@
+                <td>@item.Product?.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Product?.Price</td>
+                <td>@(item.Product?.Price*item.Quantity)</td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
+<br />
+    <h2>Total Price: @Model.OrderItems.Sum(x => x.Quantity * x.Product?.Price)</h2>
+<div class="row">
+    <div class="col-md-12">
+        <p><strong>Order Confirmation Email Sent</strong></p>
+        <p>An email confirmation has been sent to your registered email address.</p>
+    </div>
+</div>
+

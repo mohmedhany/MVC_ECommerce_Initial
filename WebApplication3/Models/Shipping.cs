@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApplication3.Models
 {
@@ -7,13 +8,12 @@ namespace WebApplication3.Models
         [Key]
         public int ShippingId { get; set; }
         [Required]
-        public int OrderId { get; set; }
+        public string OrderId { get; set; }
         [StringLength(50)]
         public string Carrier { get; set; }
         [StringLength(50)]
         public string TrackingNumber { get; set; }
         public DateTime ShippingDate { get; set; }
-
         public virtual Order Order { get; set; }
     }
 }

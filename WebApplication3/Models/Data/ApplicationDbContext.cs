@@ -36,6 +36,11 @@ namespace WebApplication3.Data
                     ConcurrencyStamp = Guid.NewGuid().ToString()
                 }
                 );
+
+           // modelBuilder.Entity<Order>().HasKey(x => x.OrderId);
+
+
+
             base.OnModelCreating(modelBuilder);
         }
     }

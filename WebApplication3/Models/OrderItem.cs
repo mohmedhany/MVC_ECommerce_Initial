@@ -8,15 +8,15 @@ namespace WebApplication3.Models
         [Key]
         public int OrderItemId { get; set; }
         [Required]
-        public int OrderId { get; set; }
+        public string OrderId { get; set; }
         [Required]
         public int ProductId { get; set; }
         [Required]
         public int Quantity { get; set; }
-        [Column(TypeName = "decimal(18,2)")]
-        public decimal Price { get; set; }
+        public decimal Price{ get; set; }
 
         public virtual Order Order { get; set;}
+        [ForeignKey("ProductId")]
         public virtual Product Product{ get; set;}
     }
 

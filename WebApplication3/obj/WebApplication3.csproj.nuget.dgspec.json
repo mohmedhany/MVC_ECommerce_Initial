@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
+    "F:\\Projects\\E_Comm_Proj\\WebApplication3\\WebApplication3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
+    "F:\\Projects\\E_Comm_Proj\\WebApplication3\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectUniqueName": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectPath": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\WebApplication3.csproj",
         "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\obj\\",
+        "outputPath": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -82,11 +86,15 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.5, )"
             },
             "PagedList.Mvc": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "PayPalCheckoutSdk": {
+              "target": "Package",
+              "version": "[1.0.4, )"
             }
           },
           "imports": [

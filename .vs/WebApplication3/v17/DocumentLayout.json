@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mo\\source\\repos\\WebApplication3\\",
+  "WorkspaceRootPath": "F:\\Projects\\E_Comm_Proj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|c:\\users\\mo\\source\\repos\\webapplication3\\webapplication3\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\E_Comm_Proj\\WebApplication3\\Migrations\\20241108174953_New_Migration_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication3\\Migrations\\20241108174953_New_Migration_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|c:\\users\\mo\\source\\repos\\webapplication3\\webapplication3\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|f:\\projects\\e_comm_proj\\webapplication3\\views\\cartitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\cartitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|f:\\projects\\e_comm_proj\\webapplication3\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7B6F97B-A507-4DF6-A45E-1F5D5E426DFE}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,27 +31,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "WebApplication3\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\Models\\CartItem.cs",
-              "RelativeToolTip": "WebApplication3\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAoAAAAZAAAA",
+              "Title": "20241108174953_New_Migration_updated.cs",
+              "DocumentMoniker": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\Migrations\\20241108174953_New_Migration_updated.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20241108174953_New_Migration_updated.cs",
+              "ToolTip": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\Migrations\\20241108174953_New_Migration_updated.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20241108174953_New_Migration_updated.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T13:51:34.29Z",
+              "WhenOpened": "2024-11-08T17:49:53.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\Views\\CartItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\CartItems\\Index.cshtml",
+              "ToolTip": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\Views\\CartItems\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\CartItems\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:32:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CartItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\CartItemsController.cs",
+              "DocumentMoniker": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\Controllers\\CartItemsController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CartItemsController.cs",
-              "ToolTip": "C:\\Users\\mo\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\CartItemsController.cs",
+              "ToolTip": "F:\\Projects\\E_Comm_Proj\\WebApplication3\\Controllers\\CartItemsController.cs",
               "RelativeToolTip": "WebApplication3\\Controllers\\CartItemsController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCYAAAAXAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwFAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T13:11:46.405Z"
+              "WhenOpened": "2024-10-02T14:17:36.119Z",
+              "EditorCaption": ""
             }
           ]
         }

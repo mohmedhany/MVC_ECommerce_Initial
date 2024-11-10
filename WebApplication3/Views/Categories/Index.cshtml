@@ -9,39 +9,123 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.CategoryId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.CategoryId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.CategoryId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="py-3 py-md-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="mb-4">All Categories</h4>
+            </div>
+
+            @foreach (var cat in Model)
+            {
+                <div class="col-md-3">
+                    <div class="product-card">
+                        <div class="product-card-img">
+                        </div>
+                        <div class="product-card-body">
+                            <h5 class="product-name">
+                                <a asp-route-controller="Categories" asp-route-action="Details" asp-route-id="@cat.CategoryId">
+                                    @cat.Name
+                                </a>
+                            </h5>
+                        
+                            <div class="mt-2">
+                                <a class="btn btn1" style="width:150px;height:40px" asp-route-action="Details" asp-route-controller="Categories" asp-route-id="@cat.CategoryId">
+                                    <b>View</b>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <style>
-
-    .button-container {
-        display: flex; /* Make elements horizontal */
-        justify-content: space-between; /* Space buttons evenly */
+    .form-control {
+        margin-right: 10px
     }
 
-        .button-container a {
-            margin-right: 10px; /* Add spacing between buttons */
+    .product-card {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        margin-bottom: 24px;
+    }
+
+        .product-card a {
+            text-decoration: none;
         }
-</style>
+
+        .product-card .stock {
+            position: absolute;
+            color: #fff;
+            border-radius: 4px;
+            padding: 2px 12px;
+            margin: 8px;
+            font-size: 12px;
+        }
+
+        .product-card .product-card-img {
+            max-height: 260px;
+            overflow: hidden;
+            border-bottom: 1px solid #ccc;
+        }
+
+            .product-card .product-card-img img {
+                width: 100%;
+            }
+
+        .product-card .product-card-body {
+            padding: 10px 10px;
+        }
+
+            .product-card .product-card-body .product-brand {
+                font-size: 14px;
+                font-weight: 400;
+                margin-bottom: 4px;
+                color: #937979;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden;
+            }
+
+            .product-card .product-card-body .product-name {
+                font-size: 20px;
+                font-weight: 600;
+                color: #000;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden;
+            }
+
+            .product-card .product-card-body .selling-price {
+                font-size: 20px;
+                color: #000;
+                font-weight: 600;
+                margin-right: 8px;
+            }
+
+            .product-card .product-card-body .btn1 {
+                border: 1px solid;
+                margin-right: 3px;
+                border-radius: 0px;
+                font-size: 12px;
+                margin-top: 10px;
+            }
+
+</style> 

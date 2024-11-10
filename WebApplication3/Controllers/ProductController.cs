@@ -18,11 +18,7 @@ namespace WebApplication3.Controllers
             _context = applicationDbContext;
         }
 
-        //public ProductController(MainRepositery<Product> main)
-        //{
-        //    _main = main;
-        //}
-        //private MainRepositery<Product> _main;
+      
         public IActionResult Index(int page =1)
         {
             var products = _context.Products.ToList();
@@ -99,7 +95,24 @@ namespace WebApplication3.Controllers
             var new_arrival = _context.Products.Where(x => x.IsNewArrival);
             return View(new_arrival);
         }
+        public IActionResult Electronics()
+        {
+            var electronics = _context.Products.Where(x => x.CategoryId == 6);
+            return View(electronics);
+        }
+        public IActionResult Fashions()
+        {
 
-      
+            var fashions = _context.Products.Where(x => x.CategoryId == 5);
+            return View(fashions);
+        }
+        public IActionResult Accessories()
+        {
+
+            var acc = _context.Products.Where(x => x.CategoryId ==10);
+            return View(acc);
+        }
+        
+
     }
 }

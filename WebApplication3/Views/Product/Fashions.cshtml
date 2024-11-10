@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Fashions";
+}
+
+<h1>Fashions</h1>
+
+<div class="py-3 py-md-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="mb-4">Our Products</h4>
+            </div>
+
+            @foreach (var product in Model)
+            {
+                <div class="col-md-3">
+                    <div class="product-card">
+                        <div class="product-card-img">
+                            <label class="stock bg-danger">Fashions</label>
+                            <img src="~/images/electronics-banner-1.jpg" alt="Laptop">
+                        </div>
+                        <div class="product-card-body">
+                            <p class="product-brand">@product.Name</p>
+                            <h5 class="product-name">
+                                <a asp-route-controller="Product" asp-route-action="Details" asp-route-id="@product.ProductId">
+                                    @product.Name
+                                </a>
+                            </h5>
+                            <div>
+                                <span class="selling-price">@product.Price <sub>LE</sub></span>
+                            </div>
+                            <div class="mt-2">
+                                <a asp-route-action="Create" asp-route-controller="CartItems" asp-route-productId="@product.ProductId" class="btn btn1">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
+                                        <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2" />
+                                    </svg>
+                                </a>
+                                <a href="" class="btn btn1">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
+                                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143q.09.083.176.171a3 3 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15" />
+                                    </svg>
+                                </a>
+
+                                <a class="btn btn1" style="width:150px;height:40px" asp-route-action="Details" asp-route-controller="Product" asp-route-id="@product.ProductId">
+                                    <b>View</b>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    .form-control {
+        margin-right: 10px
+    }
+
+    .product-card {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        margin-bottom: 24px;
+    }
+
+        .product-card a {
+            text-decoration: none;
+        }
+
+        .product-card .stock {
+            position: absolute;
+            color: #fff;
+            border-radius: 4px;
+            padding: 2px 12px;
+            margin: 8px;
+            font-size: 12px;
+        }
+
+        .product-card .product-card-img {
+            max-height: 260px;
+            overflow: hidden;
+            border-bottom: 1px solid #ccc;
+        }
+
+            .product-card .product-card-img img {
+                width: 100%;
+            }
+
+        .product-card .product-card-body {
+            padding: 10px 10px;
+        }
+
+            .product-card .product-card-body .product-brand {
+                font-size: 14px;
+                font-weight: 400;
+                margin-bottom: 4px;
+                color: #937979;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden;
+            }
+
+            .product-card .product-card-body .product-name {
+                font-size: 20px;
+                font-weight: 600;
+                color: #000;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden;
+            }
+
+            .product-card .product-card-body .selling-price {
+                font-size: 20px;
+                color: #000;
+                font-weight: 600;
+                margin-right: 8px;
+            }
+
+            .product-card .product-card-body .btn1 {
+                border: 1px solid;
+                margin-right: 3px;
+                border-radius: 0px;
+                font-size: 12px;
+                margin-top: 10px;
+            }
+
+</style> 

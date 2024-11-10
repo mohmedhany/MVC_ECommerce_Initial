@@ -1,29 +1,29 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.Runtime.InteropServices;
 
 namespace WebApplication3.Models
 {
     public class Order
     {
         [Key]
-        public int OrderId { get; set; }
+        public Guid OrderId { get; set; } 
       
         [Required]
-        public int CustomerId { get; set; }
+        public string UserId { get; set; }
         [Required]
         public DateTime OrderDate {get; set; } = DateTime.Now;
+
+
         [StringLength(255)]
         public string ShippingAddress { get; set; }
-        [StringLength(255)]
-        public string BillingAddress { get; set; }
-      
+        
+        
         [Column(TypeName = "decimal(18,2)")]
-        public decimal TotalAmount { get; set; }
+        public decimal TotalPrice { get; set; }
 
-        public string OrderStatus { get; set; }
+        public string OrderStatus { get; set; } = string.Empty;
 
-        [ForeignKey("CustomerId")]
-        public virtual Customer customer { get; set; }
-        public virtual ICollection<OrderItem> OrderItems { get; set; }
+        public   List<OrderItem> OrderItems { get; set; }
     }
 }

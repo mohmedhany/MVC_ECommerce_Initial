@@ -1,97 +1,125 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
+using System.Collections.Generic;
 using WebApplication3.Data;
 using WebApplication3.Models;
+using WebApplication3.ModelView;
+using WebApplication3.Repositeries.IServices;
+using WebApplication3.Repositeries.Services; // Assuming your UserService is in a Services folder
 
 namespace WebApplication3.Controllers
 {
+    [Authorize]
+    [Route("[controller]/{action}")]
     public class CartItemsController : Controller
     {
-        public CartItemsController(ApplicationDbContext dbContext)
+        private readonly ICartRepository _cartService;
+        private readonly IUserService _userService;
+        private readonly IProductService _product;
+        private readonly IOrderService _orderService;
+        public CartItemsController(ICartRepository cartService, IUserService userService , IProductService product , IOrderService order )
         {
-            _context = dbContext;
+            _cartService = cartService;
+            _userService = userService;
+            _product = product;
+             _orderService = order;
+ 
         }
-        private readonly ApplicationDbContext _context;
+
+          
+
         // GET: CartItemsController
-        public ActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var cartitems = _context.CartItems.Include(x => x.Product).ToList();
-            return View(cartitems);
-        }
+            var currentUserId = await _userService.GetCurrentUserIdAsync();
+            var cart = await _cartService.GetCartByUserIdAsync(currentUserId);
 
-        // GET: CartItemsController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: CartItemsController/Create
-        public ActionResult Create()
-        {
-           var pro = _context.Products.ToList();
-            var selected = pro.Select(p => new SelectListItem
+            if (cart == null)
             {
-                Text = p.Name
-            ,
-                Value = p.ProductId.ToString()
-            }).ToList();
-            ViewBag.SelectedListItem = selected;
-            return View();
-        }
-
-        // POST: CartItemsController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(CartItem cartItem)
-        {
-
-            _context.CartItems.Add(cartItem);
-            _context.SaveChanges();
-            return RedirectToAction(nameof(Index));
-        }
-
-        // GET: CartItemsController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: CartItemsController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
+                return View(new CartViewModel()); // Return empty cart if no cart exists
             }
-            catch
+
+            var cartItems = await _cartService.GetCartItemsByUserIdAsync(currentUserId);
+
+            var cartViewModel = new CartViewModel
             {
-                return View();
-            }
+                CartItems = cartItems.ToList(),
+            };
+
+            return View(cartViewModel);
+          
         }
 
-        // GET: CartItemsController/Delete/5
-        public ActionResult Delete(int id)
+
+
+        //[Route("{controller}/{action}")]
+        public async Task<IActionResult> AddToCart( int productId, int quantity = 1)
         {
-            return View();
+            var currentUserId = await _userService.GetCurrentUserIdAsync();
+            
+             await _cartService.AddItemToCartAsync(currentUserId, productId, quantity);
+
+            
+            return RedirectToAction("Index", "Home");
+
         }
 
-        // POST: CartItemsController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<IActionResult> Checkout()
         {
-            try
+            var currentUserId = await _userService.GetCurrentUserIdAsync();
+            var cart = await _cartService.GetCartByUserIdAsync(currentUserId);
+
+            if (cart == null || cart.CartItems.Count == 0)
             {
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index"); // Redirect to cart if empty
             }
-            catch
-            {
-                return View();
-            }
+
+            var order = await _orderService.CreateOrderAsync(currentUserId, cart.CartItems.ToList());
+            TempData["message"] = "Order created successfully!";
+
+            //var orderId = order.OrderId.ToString();
+
+            return RedirectToAction("OrderConfirmation", new { orderId = order.OrderId.ToString() });
+
+
         }
+
+
+        //[HttpGet("order-confirmation/{orderId}")]
+        public async Task<IActionResult> OrderConfirmation([FromRoute] string orderId)
+        {
+            if (orderId ==null) // Validate order ID format
+            {
+                return BadRequest("Invalid order ID format."); // Handle invalid ID
+              }
+
+              var order = await _orderService.GetOrderById(orderId);
+              var orderitems = await _orderService.GetOrderItemsByOrderId(orderId);
+
+                 var vm = new OrderViewModel { Order = order, OrderItems = orderitems };
+
+            if (order == null)
+            {
+                return NotFound(); // Handle order not found
+            }
+            return View(vm);
+
+    }
+
+    //[Route("{controller}/{action}/{productId}")]
+    public async Task<IActionResult> RemoveFromCart(int productId)
+        {
+            var currentUserId = await _userService.GetCurrentUserIdAsync();
+            await _cartService.RemoveItemFromCartAsync(currentUserId, productId);
+
+            return RedirectToAction("Index", "CartItems");
+        }
+
+
+
     }
 }

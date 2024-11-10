@@ -33,6 +33,7 @@ namespace WebApplication3.Controllers
                 return NotFound();
             }
 
+            var count = _context.Products.Where(x => x.CategoryId == id).Count();
             var category = await _context.Categories
                 .FirstOrDefaultAsync(m => m.CategoryId == id);
             if (category == null)
